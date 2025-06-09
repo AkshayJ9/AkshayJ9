@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Jadhav</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akshayj.contact@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XSKDNQNJy4eM-imO5aXnArNe_lKKhC3p/view?usp=drivesdk](https://drive.google.com/file/d/1XSKDNQNJy4eM-imO5aXnArNe_lKKhC3p/view?usp=drivesdk)
+- 📄 Know about my experiences [View Developer Akshay Resume](https://drive.google.com/file/d/1rGyBzZ_hDlB0zVE9v4fl_2OSP_85eqHJ/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am funny**
 
