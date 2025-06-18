@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development(MERN)**
 
-- 👨‍💻 All of my projects are available at [https://akshayportfolioj.netlify.app/](https://akshayportfolioj.netlify.app/)
+- 👨‍💻 All of my projects are available at [Visite My Wesite/](https://akshaywebs.netlify.app/)
 
 - 💬 Ask me about **javascript & react js etc.**
 
